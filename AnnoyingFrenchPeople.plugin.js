@@ -13,4 +13,5 @@ var AnnoyingFrenchPeople = (function () {
         stop() { document.removeEventListener("click", this.playCroissant) }
     }
     return OpenLinksInDiscordV2;
+    
 })()
